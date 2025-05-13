@@ -18,6 +18,7 @@ HOW TO RUN:
   8. Ctrl + C in the terminal to stop the program.
 
 
+
 ## Customization
 There is total customization within the settings manager.
 

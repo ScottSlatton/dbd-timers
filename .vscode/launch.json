@@ -1,0 +1,14 @@
+{
+    "version": "0.2.0",
+    "configurations": [
+      {
+        "type": "java",
+        "name": "Launch Main",
+        "request": "launch",
+        "mainClass": "com.DBDTimer.main.Main",   // Fully qualified class name
+        "vmArgs": "--add-opens java.desktop/java.awt=ALL-UNNAMED --add-opens java.desktop/java.awt.color=ALL-UNNAMED",   // Add both packages
+        "cwd": "${workspaceFolder}",
+        "stopOnEntry": false
+      }
+    ]
+  }

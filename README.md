@@ -7,6 +7,16 @@
 ## Introduction
 This program simply allows you to create timers to allow you to get know timings of perks, add-ons and items.
 
+HOW TO RUN: 
+  1. Install Visual Studio Code.
+  2. Install the latest version of Java JRE (I installed the SDK from Adoptium version 21).
+  3. In VS Code Install Java Extension Pack.
+  4. Download the source code of this github repo.
+  5. Extract if needed and open project folder in VS Code.
+  6. Click Run at the top left bar and "Run Without Debugging".
+  7. Keybinds should work now as long as the program is running in the background.
+
+
 ## Customization
 There is total customization within the settings manager.
 

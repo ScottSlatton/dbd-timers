@@ -17,7 +17,15 @@ HOW TO RUN:
   7. Keybinds should work now as long as the program is running in the background.
   8. Ctrl + C in the terminal to stop the program.
 
+How to Use:
+Press keybinds to trigger timers (keybinds are currently only visible in the code.)
+Default keybinds are Q, E, 3, 4, V, T, R
+H to hide overlay.
+Right-Click the overlay to switch from Killer to Survivor HUD
 
+
+Known Issues: 
+Settings menu is currently broken.
 
 ## Customization
 There is total customization within the settings manager.

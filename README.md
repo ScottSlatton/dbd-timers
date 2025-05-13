@@ -19,8 +19,11 @@ HOW TO RUN:
 
 How to Use:
 Press keybinds to trigger timers (keybinds are currently only visible in the code.)
+
 Default keybinds are Q, E, 3, 4, V, T, R
+
 H to hide overlay.
+
 Right-Click the overlay to switch from Killer to Survivor HUD
 
 

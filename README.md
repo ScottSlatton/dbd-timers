@@ -15,6 +15,8 @@ HOW TO RUN:
   5. Extract if needed and open project folder in VS Code.
   6. Click Run at the top left bar and "Run Without Debugging".
   7. Keybinds should work now as long as the program is running in the background.
+  8. Ctrl + C in the terminal to stop the program.
+
 
 
 ## Customization
